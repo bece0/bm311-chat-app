@@ -1,0 +1,13 @@
+ChatSocketClient/nbproject/private/
+ChatSocketClient/build/
+ChatSocketClient/nbbuild/
+ChatSocketClient/dist/
+ChatSocketClient/nbdist/
+ChatSocketClient/.nb-gradle/
+
+ChatSocketServer/nbproject/private/
+ChatSocketServer/build/
+ChatSocketServer/nbbuild/
+ChatSocketServer/dist/
+ChatSocketServer/nbdist/
+ChatSocketServer/.nb-gradle/
